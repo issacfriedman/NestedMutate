@@ -1,4 +1,13 @@
 
+## Installation
+
+Install nested-mutate with npm
+
+```bash
+  npm i nested-mutate
+  
+```
+    
 # Nested Mutate
 
 javascript function to mutate every string in deep nested objects
