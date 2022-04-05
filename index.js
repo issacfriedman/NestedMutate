@@ -1,4 +1,4 @@
-export const nestedMutate = function (obj, mutateFunction) {
+const nestedMutate = function (obj, mutateFunction) {
   // basic argument check
 
   if (typeof mutateFunction !== "function")
@@ -41,3 +41,4 @@ export const nestedMutate = function (obj, mutateFunction) {
     nestedMutate(obj[object], mutateFunction)
   );
 };
+export default nestedMutate;
