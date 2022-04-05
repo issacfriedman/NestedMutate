@@ -7,6 +7,20 @@ Install nested-mutate with npm
 
 ```
 
+## Install with cdn
+
+import your local script as a module
+
+```html
+<script src="script.js" type="module"></script>
+```
+
+and in your js file you can use the import
+
+```js
+import nestedMutate from "https://unpkg.com/nested-mutate@1.0.2/index.js";
+```
+
 # Nested Mutate
 
 javascript function to mutate every string in deep nested objects
