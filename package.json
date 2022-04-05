@@ -1,0 +1,25 @@
+{
+  "name": "nested-mutate",
+  "version": "1.0.2",
+  "description": "javascript function to mutate every string in deep nested objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/issacfriedman/NestedMutate.git"
+  },
+  "keywords": [
+    "nested",
+    "mutate",
+    "object",
+    "recurtion"
+  ],
+  "author": "Issac Friedman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/issacfriedman/NestedMutate/issues"
+  },
+  "homepage": "https://github.com/issacfriedman/NestedMutate#readme"
+}
